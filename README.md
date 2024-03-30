@@ -88,8 +88,10 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### Render Graph
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
 * [The Maister - Render Graphs and Vulkan](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
+* [Pavlo Muratov - Organizing GPU Work with Directed Acyclic Graphs](https://levelup.gitconnected.com/organizing-gpu-work-with-directed-acyclic-graphs-f3fd5f2c2af3)
 
 ### Miscellaneous
+* [Graphics Programming Discord](https://discord.gg/AsNS72dU)
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
 * [glslang Integration](https://github.com/KhronosGroup/Vulkan-Samples/blob/0d0cf9b90541d349ceb49682d063d27a8c2432de/framework/glsl_compiler.cpp#L4)
 * [Reddit - What exactly is frames in flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
