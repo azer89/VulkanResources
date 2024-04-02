@@ -118,6 +118,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
 
 ### C++
+* [Federico Busato - Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
 * [Google C++ Guide](https://google.github.io/styleguide/cppguide.html)
 
