@@ -49,6 +49,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
 * [NVPro - Samples](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 * [SaschaWillems - VulkanPathTracer](https://github.com/SaschaWillems/VulkanPathTracer)
+* [Thorsten Thormählen - Image Synthesis Vulkan Ray Tracing Pipeline](https://www.mathematik.uni-marburg.de/~thormae/lectures/graphics2/graphics_2_1_eng_web.html#1)
 
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
