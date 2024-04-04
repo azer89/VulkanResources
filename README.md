@@ -46,11 +46,11 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
 * [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
 * [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
+* Jason Ekstrand - Ray-tracing in Vulkan [Presentation](https://lpc.events/event/9/contributions/613/attachments/715/1318/Ray-tracing_in_Vulkan.pdf) [Video](https://www.youtube.com/watch?v=-FvAJmq8NvI)
 * [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
 * [NVPro - Samples](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 * [SaschaWillems - VulkanPathTracer](https://github.com/SaschaWillems/VulkanPathTracer)
 * [Thorsten Thormählen - Image Synthesis Vulkan Ray Tracing Pipeline](https://www.mathematik.uni-marburg.de/~thormae/lectures/graphics2/graphics_2_1_eng_web.html#1)
-* [Jason Ekstrand - Ray-tracing in Vulkan](https://lpc.events/event/9/contributions/613/attachments/715/1318/Ray-tracing_in_Vulkan.pdf)
 
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
