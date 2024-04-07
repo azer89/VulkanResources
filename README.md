@@ -5,7 +5,6 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [Vulkan Discord](https://discord.com/invite/vulkan)
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
-* [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [docs.vulkan.org](https://docs.vulkan.org/)
 * Charles G - Common Mistakes When Learning Vulkan [Presentation](https://vulkan.org/user/pages/09.events/vulkanised-2024/vulkanised-2024-charles-giessen-2-lunarg.pdf) [Video](https://www.youtube.com/watch?v=0OqJtPnkfC8)
 * [Khronos - Vulkan Samples](https://docs.vulkan.org/samples/latest/README.html)
@@ -60,6 +59,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 
 ### Vulkan Engines/Backends
 * [Niagara](https://github.com/zeux/niagara)
+* [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Facebook IGL](https://github.com/facebook/igl/tree/main/src/igl/vulkan)
 * [lightweightvk](https://github.com/corporateshark/lightweightvk)
 
