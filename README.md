@@ -56,6 +56,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [ReSTIR Vulkan](https://github.com/lukedan/ReSTIR-Vulkan)
 * [ReSTIR on Shadertoy](https://www.shadertoy.com/results?query=tag%3Drestir)
 * [A Gentle Introduction to ReSTIR](https://intro-to-restir.cwyman.org/presentations/2023ReSTIR_Course_Notes.pdf)
+* [A Gentler Introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
 
 ### Vulkan Engines/Backends
 * [Niagara](https://github.com/zeux/niagara)
