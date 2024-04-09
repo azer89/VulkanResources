@@ -1,6 +1,6 @@
 A list of graphics/Vulkan/C++ resources that I find interesting.
 
-### General
+### Vulkan
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [Vulkan Discord](https://discord.com/invite/vulkan)
