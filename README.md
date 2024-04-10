@@ -1,4 +1,4 @@
-A list of graphics/Vulkan/C++ resources that I find interesting.
+A list of graphics resources that I find interesting. Originally, the list was mostly about Vulkan, but more recently I'm slowly adding bits of other stuff like DX12 and Unreal.
 
 ### Vulkan
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
@@ -117,11 +117,14 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### Radiance Fields
 * [Khronos - Mobile NeRF](https://github.com/KhronosGroup/Vulkan-Samples/blob/8ba37b44a693d165c2ab8b9cfdcf1c8774efd407/samples/general/mobile_nerf/README.adoc)
 
-### DirectX
+### DirectX 12
 * [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
 * [DirectX 12 Programming Guide](https://learn.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)
 * [DirectX Graphics Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
 * [Vasilios Magriplis - Intro to DX12](https://github.com/yottaawesome/intro-to-dx12)
+
+### Unreal Engine
+* [Begin Play Rendering](https://dev.epicgames.com/community/learning/tutorials/vyZ1/unreal-engine-begin-play-rendering)
 
 ### C++
 * [Federico Busato - Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
