@@ -121,6 +121,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
 * [DirectX 12 Programming Guide](https://learn.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)
 * [DirectX Graphics Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
+* [Vasilios Magriplis - Intro to DX12](https://github.com/yottaawesome/intro-to-dx12)
 
 ### C++
 * [Federico Busato - Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
