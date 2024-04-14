@@ -1,6 +1,6 @@
 A list of graphics resources that I find interesting. Originally, the list was mostly about Vulkan, but more recently I'm slowly adding bits of other stuff like DX12 and Unreal.
 
-### Vulkan
+### Vulkan General
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [Vulkan Discord](https://discord.com/invite/vulkan)
@@ -10,11 +10,11 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Khronos - Vulkan Samples](https://docs.vulkan.org/samples/latest/README.html)
 * [SaschaWillems - Vulkan Samples](https://github.com/SaschaWillems/Vulkan)
 
-### Compute Shaders
+### Vulkan Compute Shaders
 * [Vulkan Guide - Compute Shaders](https://vkguide.dev/docs/gpudriven/compute_shaders/)
 * [Vulkan-Tutorial - Compute Shaders](https://vulkan-tutorial.com/Compute_Shader)
 
-### Synchronization
+### Vulkan Synchronization
 * [The Maister - Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 * [AMD - Vulkan Barriers Explained](https://gpuopen.com/learn/vulkan-barriers-explained/)
 * [Khronos - Using pipeline barriers efficiently](https://github.com/KhronosGroup/Vulkan-Samples/blob/main/samples/performance/pipeline_barriers/README.adoc)
@@ -41,7 +41,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Louis Bavoil - Advanced Soft Shadow Mapping Techniques](https://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
 * [Andrew Pham - PCSS](https://andrew-pham.blog/2019/08/03/percentage-closer-soft-shadows/)
 
-### Raytracing
+### Vulkan Raytracing
 * [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
 * [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
 * [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
