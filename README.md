@@ -123,6 +123,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [DirectX Graphics Samples](https://github.com/Microsoft/DirectX-Graphics-Samples)
 * [Vasilios Magriplis - Intro to DX12](https://github.com/yottaawesome/intro-to-dx12)
 * [alain.xyz - Raw DirectX 12](https://alain.xyz/books/raw-directx12/)
+* [alessiot89 - Direct3D 12.0 Quick Reference Guide](https://github.com/alessiot89/D3D12QuickRef)
 
 ### Unreal Engine
 * [Begin Play Rendering](https://dev.epicgames.com/community/learning/tutorials/vyZ1/unreal-engine-begin-play-rendering)
