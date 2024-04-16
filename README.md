@@ -124,6 +124,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Vasilios Magriplis - Intro to DX12](https://github.com/yottaawesome/intro-to-dx12)
 * [alain.xyz - Raw DirectX 12](https://alain.xyz/books/raw-directx12/)
 * [alessiot89 - Direct3D 12.0 Quick Reference Guide](https://github.com/alessiot89/D3D12QuickRef)
+* [braynzarsoft - DirectX 12 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 
 ### Unreal Engine
 * [Begin Play Rendering](https://dev.epicgames.com/community/learning/tutorials/vyZ1/unreal-engine-begin-play-rendering)
