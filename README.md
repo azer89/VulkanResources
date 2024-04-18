@@ -113,6 +113,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Khronos - Offset and Stride Assignment](https://docs.vulkan.org/spec/latest/chapters/interfaces.html#interfaces-resources-layout)
 * [Iago Toral - Frame analysis of a rendering of the Sponza model](https://blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/)
 * [Simon Coenen - DOOM Eternal - Graphics Study](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy)
+* [graphics-programming.org](https://graphics-programming.org/resources/)
 
 ### Radiance Fields
 * [Khronos - Mobile NeRF](https://github.com/KhronosGroup/Vulkan-Samples/blob/8ba37b44a693d165c2ab8b9cfdcf1c8774efd407/samples/general/mobile_nerf/README.adoc)
