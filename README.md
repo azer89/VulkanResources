@@ -128,6 +128,9 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [braynzarsoft - DirectX 12 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 * Mapping Vulkan to DirectX 12 [Reddit](https://www.reddit.com/r/VulkanHelp/comments/6znkn9/mapping_vulkan_to_directx12_and_opengl_4/) [StackExchange](https://computergraphics.stackexchange.com/questions/4422/directx-openglvulkan-concepts-mapping-chart/4434#4434)
 
+### HLSL
+* [Lei Zhang - HLSL for Vulkan Resources](https://www.lei.chat/posts/hlsl-for-vulkan-resources/)
+
 ### Unreal Engine
 * [Begin Play Rendering](https://dev.epicgames.com/community/learning/tutorials/vyZ1/unreal-engine-begin-play-rendering)
 
