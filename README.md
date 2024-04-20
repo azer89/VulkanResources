@@ -127,6 +127,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [alessiot89 - Direct3D 12.0 Quick Reference Guide](https://github.com/alessiot89/D3D12QuickRef)
 * [braynzarsoft - DirectX 12 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 * Mapping Vulkan to DirectX 12 [Reddit](https://www.reddit.com/r/VulkanHelp/comments/6znkn9/mapping_vulkan_to_directx12_and_opengl_4/) [StackExchange](https://computergraphics.stackexchange.com/questions/4422/directx-openglvulkan-concepts-mapping-chart/4434#4434)
+* [Riccardo Loggini - Root Signature](https://logins.github.io/graphics/2020/06/26/DX12RootSignatureObject.html)
 
 ### HLSL
 * [Lei Zhang - HLSL for Vulkan Resources](https://www.lei.chat/posts/hlsl-for-vulkan-resources/)
