@@ -22,6 +22,27 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Khronos - Synchronization Examples (Legacy)](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples-(Legacy-synchronization-APIs))
 * [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
 
+### Vulkan Raytracing
+* [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
+* [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
+* [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
+* Jason Ekstrand - Ray-tracing in Vulkan [Presentation](https://lpc.events/event/9/contributions/613/attachments/715/1318/Ray-tracing_in_Vulkan.pdf) [Video](https://www.youtube.com/watch?v=-FvAJmq8NvI)
+* [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
+* [NVPro - Samples](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+* [SaschaWillems - VulkanPathTracer](https://github.com/SaschaWillems/VulkanPathTracer)
+* [Thorsten Thormählen - Image Synthesis Vulkan Ray Tracing Pipeline](https://www.mathematik.uni-marburg.de/~thormae/lectures/graphics2/graphics_2_1_eng_web.html#1)
+
+### Vulkan Engines/Backends
+* [Niagara](https://github.com/zeux/niagara)
+* [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+* [Facebook IGL](https://github.com/facebook/igl/tree/main/src/igl/vulkan)
+* [lightweightvk](https://github.com/corporateshark/lightweightvk)
+
+### Vulkan Memory Allocator
+* [VMA Quick Start](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/quick_start.html)
+* [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
+* VMA and Volk [Stackoverflow](https://stackoverflow.com/questions/73512602/using-vulkan-memory-allocator-with-volk) [Reddit](https://old.reddit.com/r/vulkan/comments/optef4/vulkan_memory_allocator_cant_load_some_vulkan/)
+
 ### Clustered Forward Shading
 * [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
 * [Olsson et al. -  Clustered Deferred and Forward Shading](https://www.cse.chalmers.se/~uffe/clustered_shading_preprint.pdf)
@@ -41,33 +62,12 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Louis Bavoil - Advanced Soft Shadow Mapping Techniques](https://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
 * [Andrew Pham - PCSS](https://andrew-pham.blog/2019/08/03/percentage-closer-soft-shadows/)
 
-### Vulkan Raytracing
-* [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
-* [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
-* [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
-* Jason Ekstrand - Ray-tracing in Vulkan [Presentation](https://lpc.events/event/9/contributions/613/attachments/715/1318/Ray-tracing_in_Vulkan.pdf) [Video](https://www.youtube.com/watch?v=-FvAJmq8NvI)
-* [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
-* [NVPro - Samples](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
-* [SaschaWillems - VulkanPathTracer](https://github.com/SaschaWillems/VulkanPathTracer)
-* [Thorsten Thormählen - Image Synthesis Vulkan Ray Tracing Pipeline](https://www.mathematik.uni-marburg.de/~thormae/lectures/graphics2/graphics_2_1_eng_web.html#1)
-
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
 * [ReSTIR Vulkan](https://github.com/lukedan/ReSTIR-Vulkan)
 * [ReSTIR on Shadertoy](https://www.shadertoy.com/results?query=tag%3Drestir)
 * [A Gentle Introduction to ReSTIR](https://intro-to-restir.cwyman.org/presentations/2023ReSTIR_Course_Notes.pdf)
 * [A Gentler Introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
-
-### Vulkan Engines/Backends
-* [Niagara](https://github.com/zeux/niagara)
-* [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
-* [Facebook IGL](https://github.com/facebook/igl/tree/main/src/igl/vulkan)
-* [lightweightvk](https://github.com/corporateshark/lightweightvk)
-
-### Vulkan Memory Allocator
-* [VMA Quick Start](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/quick_start.html)
-* [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
-* VMA and Volk [Stackoverflow](https://stackoverflow.com/questions/73512602/using-vulkan-memory-allocator-with-volk) [Reddit](https://old.reddit.com/r/vulkan/comments/optef4/vulkan_memory_allocator_cant_load_some_vulkan/)
 
 ### Bindless Textures
 * [Charles Giessen - Exploration of Bindless Rendering](https://www.youtube.com/watch?v=SVm0HanVTRw)
