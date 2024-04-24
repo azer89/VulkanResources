@@ -128,9 +128,10 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [braynzarsoft - DirectX 12 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 * Mapping Vulkan to DirectX 12 [Reddit](https://www.reddit.com/r/VulkanHelp/comments/6znkn9/mapping_vulkan_to_directx12_and_opengl_4/) [StackExchange](https://computergraphics.stackexchange.com/questions/4422/directx-openglvulkan-concepts-mapping-chart/4434#4434)
 * [Riccardo Loggini - Root Signature](https://logins.github.io/graphics/2020/06/26/DX12RootSignatureObject.html)
-* [Khronos - Vulkan High Level Shader Language Comparison](https://docs.vulkan.org/guide/latest/high_level_shader_language_comparison.html)
+* [DirectXTK12 Utilities](https://github.com/microsoft/DirectXTK12/wiki/Utilities)
 
 ### HLSL
+* [Khronos - Vulkan High Level Shader Language Comparison](https://docs.vulkan.org/guide/latest/high_level_shader_language_comparison.html)
 * [Lei Zhang - HLSL for Vulkan Resources](https://www.lei.chat/posts/hlsl-for-vulkan-resources/)
 
 ### Unreal Engine
