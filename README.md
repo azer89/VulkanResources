@@ -132,6 +132,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Riccardo Loggini - Root Signature](https://logins.github.io/graphics/2020/06/26/DX12RootSignatureObject.html)
 * [DirectXTK12 Utilities](https://github.com/microsoft/DirectXTK12/wiki/Utilities)
 * [MicrosoftDocs - Direct3D12](https://github.com/MicrosoftDocs/win32/tree/docs/desktop-src/direct3d12)
+* [Jing Zhang - awesome-d3d12](https://github.com/vinjn/awesome-d3d12)
 
 ### HLSL
 * [Khronos - Vulkan High Level Shader Language Comparison](https://docs.vulkan.org/guide/latest/high_level_shader_language_comparison.html)
