@@ -21,6 +21,8 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Khronos - Synchronization Examples](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples)
 * [Khronos - Synchronization Examples (Legacy)](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples-(Legacy-synchronization-APIs))
 * [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
+* [Reddit - What exactly is frames in flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
+* [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 
 ### Vulkan Raytracing
 * [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
@@ -69,6 +71,9 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [A Gentle Introduction to ReSTIR](https://intro-to-restir.cwyman.org/presentations/2023ReSTIR_Course_Notes.pdf)
 * [A Gentler Introduction to ReSTIR](https://interplayoflight.wordpress.com/2023/12/17/a-gentler-introduction-to-restir/)
 
+### Global Illumination
+* [Wicked Engine - Voxel-based GI](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
+
 ### Bindless Textures
 * [Charles Giessen - Exploration of Bindless Rendering](https://www.youtube.com/watch?v=SVm0HanVTRw)
 * [Reddit - How to use texture arrays using descriptor indexing](https://www.reddit.com/r/vulkan/comments/tq6c2v/vulkan_bindless_textures_how_to_deal_with/)
@@ -98,8 +103,6 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Graphics Programming Discord](https://discord.gg/AsNS72dU)
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
 * [glslang Integration](https://github.com/KhronosGroup/Vulkan-Samples/blob/0d0cf9b90541d349ceb49682d063d27a8c2432de/framework/glsl_compiler.cpp#L4)
-* [Reddit - What exactly is frames in flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
-* [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 * [Jeremy Ong's Blog](https://www.jeremyong.com/)
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [alain.xyz - Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
@@ -109,7 +112,6 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [David Lettier - 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 * [Khronos - Buffer Device Address](https://docs.vulkan.org/samples/latest/samples/extensions/buffer_device_address/README.html)
 * [Andrew Pham - Spherical Harmonics](https://andrew-pham.blog/2019/08/26/spherical-harmonics/)
-* [Wicked Engine - Voxel-based GI](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
 * [Khronos - Offset and Stride Assignment](https://docs.vulkan.org/spec/latest/chapters/interfaces.html#interfaces-resources-layout)
 * [Iago Toral - Frame analysis of a rendering of the Sponza model](https://blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/)
 * [Simon Coenen - DOOM Eternal - Graphics Study](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy)
