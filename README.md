@@ -144,6 +144,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Begin Play Rendering](https://dev.epicgames.com/community/learning/tutorials/vyZ1/unreal-engine-begin-play-rendering)
 * [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine)
 * [Matt Hoffman - UE4 Rendering](https://medium.com/@lordned)
+* [landelare - Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html)
 
 ### C++
 * [Federico Busato - Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
