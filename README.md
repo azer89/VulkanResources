@@ -104,7 +104,6 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
 * [glslang Integration](https://github.com/KhronosGroup/Vulkan-Samples/blob/0d0cf9b90541d349ceb49682d063d27a8c2432de/framework/glsl_compiler.cpp#L4)
 * [Jeremy Ong's Blog](https://www.jeremyong.com/)
-* [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [alain.xyz - Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 * [Shader Occupancy](https://gpuopen.com/learn/occupancy-explained/)
 * [Early Depth Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
@@ -144,7 +143,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Begin Play Rendering](https://dev.epicgames.com/community/learning/tutorials/vyZ1/unreal-engine-begin-play-rendering)
 * [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine)
 * [Matt Hoffman - UE4 Rendering](https://medium.com/@lordned)
-* [landelare - Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html)
+* [landelare - Unreal C++ Speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html)
 
 ### C++
 * [Federico Busato - Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
