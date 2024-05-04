@@ -94,11 +94,12 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Sascha Willems - Compute Cull and LOD](https://github.com/SaschaWillems/Vulkan/blob/master/examples/computecullandlod/computecullandlod.cpp)
 * [GPU Rendering and Multi-Draw Indirect](https://docs.vulkan.org/samples/latest/samples/performance/multi_draw_indirect/README.html)
 
-### Render Graph
+### Frame Graph
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
 * [The Maister - Render Graphs and Vulkan](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 * [Pavlo Muratov - Organizing GPU Work with Directed Acyclic Graphs](https://levelup.gitconnected.com/organizing-gpu-work-with-directed-acyclic-graphs-f3fd5f2c2af3)
 * [Yuriy O'Donnell - FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
+* [Riccardo Loggini - Render Graphs](https://logins.github.io/graphics/2021/05/31/RenderGraphs.html)
 
 ### Miscellaneous
 * [Graphics Programming Discord](https://discord.gg/AsNS72dU)
