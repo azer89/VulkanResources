@@ -23,6 +23,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
 * [Reddit - What exactly is frames in flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
 * [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
+* [Diligent Engine - Unified Resource State Management for Vulkan and Direct3D12](http://diligentgraphics.com/2018/12/09/resource-state-management/)
 
 ### Vulkan Raytracing
 * [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
