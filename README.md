@@ -100,6 +100,8 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Pavlo Muratov - Organizing GPU Work with Directed Acyclic Graphs](https://levelup.gitconnected.com/organizing-gpu-work-with-directed-acyclic-graphs-f3fd5f2c2af3)
 * [Yuriy O'Donnell - FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
 * [Riccardo Loggini - Render Graphs](https://logins.github.io/graphics/2021/05/31/RenderGraphs.html)
+* [Godot - GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
+* [yetmania - Basic Render Graph](https://www.reddit.com/r/vulkan/comments/1ayxhaz/after_more_than_3_months_i_finally_have_a_cube/)
 
 ### Miscellaneous
 * [Graphics Programming Discord](https://discord.gg/AsNS72dU)
