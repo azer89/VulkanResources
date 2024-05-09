@@ -1,4 +1,4 @@
-A list of graphics resources that I find interesting. Originally, the list was mostly about Vulkan, but more recently I'm slowly adding bits of other stuff like DX12 and Unreal.
+A list of graphics resources that I find interesting. Originally, the list was mostly about Vulkan, but more recently I'm slowly adding bits of other stuff like DirectX 12 and Unreal.
 
 ### Vulkan General
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
