@@ -140,6 +140,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [MicrosoftDocs - Direct3D12](https://github.com/MicrosoftDocs/win32/tree/docs/desktop-src/direct3d12)
 * [Jing Zhang - awesome-d3d12](https://github.com/vinjn/awesome-d3d12)
 * [Adam Sawicki - Direct3D 12: Long Way to Access Data](https://asawicki.info/news_1754_direct3d_12_long_way_to_access_data)
+* [Tarun Ramaswamy - Bindless Rendering](https://rtarun9.github.io/blogs/bindless_rendering/)
 
 ### HLSL
 * [Khronos - Vulkan High Level Shader Language Comparison](https://docs.vulkan.org/guide/latest/high_level_shader_language_comparison.html)
