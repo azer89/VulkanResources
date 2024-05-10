@@ -25,7 +25,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 * [Diligent Engine - Unified Resource State Management for Vulkan and Direct3D12](http://diligentgraphics.com/2018/12/09/resource-state-management/)
 
-### Vulkan Raytracing
+### Raytracing
 * [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
 * [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
 * [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
@@ -34,6 +34,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [NVPro - Samples](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 * [SaschaWillems - VulkanPathTracer](https://github.com/SaschaWillems/VulkanPathTracer)
 * [Thorsten Thormählen - Image Synthesis Vulkan Ray Tracing Pipeline](https://www.mathematik.uni-marburg.de/~thormae/lectures/graphics2/graphics_2_1_eng_web.html#1)
+* [Raytracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 
 ### Vulkan Engines/Backends
 * [Niagara](https://github.com/zeux/niagara)
