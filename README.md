@@ -15,13 +15,12 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Vulkan-Tutorial - Compute Shaders](https://vulkan-tutorial.com/Compute_Shader)
 
 ### Vulkan Synchronization
-* [The Maister - Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
+* [The Maister - Yet Another Blog Explaining Vulkan Synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 * [AMD - Vulkan Barriers Explained](https://gpuopen.com/learn/vulkan-barriers-explained/)
 * [Khronos - Using pipeline barriers efficiently](https://github.com/KhronosGroup/Vulkan-Samples/blob/main/samples/performance/pipeline_barriers/README.adoc)
 * [Khronos - Synchronization Examples](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples)
 * [Khronos - Synchronization Examples (Legacy)](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples-(Legacy-synchronization-APIs))
-* [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
-* [Reddit - What exactly is frames in flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
+* [Reddit - What Exactly is Frames in Flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
 * [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 * [Diligent Engine - Unified Resource State Management for Vulkan and Direct3D12](http://diligentgraphics.com/2018/12/09/resource-state-management/)
 
@@ -38,7 +37,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 
 ### Vulkan Engines/Backends
 * [Niagara](https://github.com/zeux/niagara)
-* [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
+* [Zeux - Writing an Efficient Vulkan Renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Facebook IGL](https://github.com/facebook/igl/tree/main/src/igl/vulkan)
 * [lightweightvk](https://github.com/corporateshark/lightweightvk)
 
@@ -121,7 +120,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [Iago Toral - Frame analysis of a rendering of the Sponza model](https://blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/)
 * [Simon Coenen - DOOM Eternal - Graphics Study](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy)
 * [graphics-programming.org](https://graphics-programming.org/resources/)
-* [Jendrik Illner - Graphics Programming weekly](https://www.jendrikillner.com/post/)
+* [Jendrik Illner - Graphics Programming Weekly](https://www.jendrikillner.com/post/)
 * [Francesco Cifariello - Intro to GPU Scalarization](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)
 
 ### Radiance Fields
