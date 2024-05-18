@@ -153,8 +153,8 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [landelare - Unreal C++ Speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html)
 
 ### C++
-* [Federico Busato - Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
+* [Federico Busato - Modern CPP Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 * [Google C++ Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### Job Interview
