@@ -145,6 +145,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 ### HLSL
 * [Khronos - Vulkan High Level Shader Language Comparison](https://docs.vulkan.org/guide/latest/high_level_shader_language_comparison.html)
 * [Lei Zhang - HLSL for Vulkan Resources](https://www.lei.chat/posts/hlsl-for-vulkan-resources/)
+* [GLSL-to-HLSL reference](https://learn.microsoft.com/en-us/windows/uwp/gaming/glsl-to-hlsl-reference)
 
 ### Unreal Engine
 * [Begin Play Rendering](https://dev.epicgames.com/community/learning/tutorials/vyZ1/unreal-engine-begin-play-rendering)
