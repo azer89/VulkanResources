@@ -122,6 +122,7 @@ A list of graphics resources that I find interesting. Originally, the list was m
 * [graphics-programming.org](https://graphics-programming.org/resources/)
 * [Jendrik Illner - Graphics Programming Weekly](https://www.jendrikillner.com/post/)
 * [Francesco Cifariello - Intro to GPU Scalarization](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)
+* [Elias Daler - How I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 
 ### Radiance Fields
 * [Khronos - Mobile NeRF](https://github.com/KhronosGroup/Vulkan-Samples/blob/8ba37b44a693d165c2ab8b9cfdcf1c8774efd407/samples/general/mobile_nerf/README.adoc)
